@@ -15,3 +15,4 @@ _____________
 _____________
 20 | 21 | 22
 
+To run the program, enter "python tictactoe.py" into the commandline.
